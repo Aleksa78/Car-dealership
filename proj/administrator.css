@@ -1,0 +1,17 @@
+body{
+background-image: url("prkosava1.jpg");
+background-size: cover;
+color: white;
+background-attachment: fixed;
+font-family: 'Handlee', cursive;
+font-size: 40px;
+color: #011936;
+}
+input {
+background-color: green;
+padding: 14px 40px;
+border-radius: 4px;
+border: 2px solid #00171F;
+color: whitesmoke;
+font-family: 'Handlee', cursive;
+}

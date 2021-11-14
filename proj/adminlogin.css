@@ -1,0 +1,31 @@
+body{
+color: white;
+background-attachment: fixed;
+font-size: 50px;
+color: darkolivegreen;
+}
+*{
+border:0;
+margin: 0;
+padding: 0;
+outline: 0;
+}
+
+input{
+width: 200px;
+height: 25px;
+position: relative;
+color: #011936;
+font-family: 'Handlee', cursive;
+font-size: 20px;
+}
+button{
+width: 100px;
+height: 30px;
+position: relative;
+background-color: green;
+color: floralwhite;
+font-family: 'Handlee', cursive;
+font-size: 15px;
+
+}
